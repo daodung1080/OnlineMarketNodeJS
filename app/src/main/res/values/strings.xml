@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Online Market Node JS</string>
+    <string name="title_main_screen">Main screen</string>
+    <string name="edtFind">Tìm kiếm...</string>
+    <string name="tvTechnology">Đồ công nghệ</string>
+    <string name="tvNext">Xem thêm</string>
+    <string name="tvProduct">Các sản phẩm khác</string>
+    <string name="tvProductName">Name:</string>
+    <string name="title_technology">Technology Product</string>
+</resources>
